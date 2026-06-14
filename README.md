@@ -4,7 +4,7 @@ This repository contains coursework, computational implementations, and analytic
 
 The implementations focus on numerical linear algebra, exploring the efficiency, stability, and convergence of iterative methods for massive matrices where direct solvers are computationally prohibitive.
 
-**Co-author:** Anh Do
+
 
 ---
 
